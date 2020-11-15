@@ -1,0 +1,26 @@
+{
+	"image": {
+		"top": 240,
+		"left": 218,
+		"width": 398,
+		"height": 600
+	},
+	"text1": {
+		"feature": "title",
+		"size": 24,
+		"top": 200,
+		"left": 700
+	},
+	"text2": {
+		"feature": "price",
+		"size": 24,
+		"top": 296,
+		"left": 700
+	},
+	"text3": {
+		"feature": "brand",
+		"size": 24,
+		"top": 392,
+		"left": 700
+	}
+}

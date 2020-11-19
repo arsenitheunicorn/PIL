@@ -1,26 +1,47 @@
 {
 	"image": {
-		"top": 240,
-		"left": 218,
+		"margin-top": 240,
+		"margin-left": 218,
 		"width": 398,
-		"height": 600
+		"content": "feed"
 	},
 	"text1": {
-		"feature": "title",
-		"size": 24,
-		"top": 200,
-		"left": 700
+		"content": "title",
+		"font-size": 30,
+		"margin-top": 200,
+		"margin-left": 670,
+		"spacing": 2,
+		"font": "fonts\\Proxima Nova Alt Thin.otf",
+		"align": "left",
+		"line-height": 38,
+		"width": 20
 	},
 	"text2": {
-		"feature": "price",
-		"size": 24,
-		"top": 296,
-		"left": 700
+		"content": "price",
+		"font-size": 30,
+		"margin-top": 600,
+		"margin-left": 670,
+		"spacing": 2,
+		"font": "fonts\\Proxima Nova Alt Thin.otf",
+		"align": "left",
+		"line-height": 30,
+		"width": 20
 	},
 	"text3": {
-		"feature": "brand",
-		"size": 24,
-		"top": 392,
-		"left": 700
+		"content": "brand",
+		"font-size": 30,
+		"margin-top": 800,
+		"margin-left": 670,
+		"spacing": 2,
+		"font": "fonts\\Proxima Nova Alt Thin.otf",
+		"align": "left",
+		"line-height": 30,
+		"width": 20
+	},
+	"image0": {
+		"margin-top": 810,
+		"margin-left": 890,
+		"width": 120,
+		"content": "demo.png"
 	}
 }

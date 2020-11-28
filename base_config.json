@@ -1,47 +1,51 @@
 {
-	"image": {
-		"margin-top": 240,
-		"margin-left": 218,
-		"width": 398,
-		"content": "feed"
+	"settings": {
+		"feed": "scanlantheodore.myshopify.xml",
+		"output": "output",
+		"layout": "maket_plain.jpg"
 	},
-	"text1": {
-		"content": "title",
-		"font-size": 30,
-		"margin-top": 200,
-		"margin-left": 670,
-		"spacing": 2,
-		"font": "fonts\\Proxima Nova Alt Thin.otf",
-		"align": "left",
-		"line-height": 38,
-		"width": 20
-	},
-	"text2": {
-		"content": "price",
-		"font-size": 30,
-		"margin-top": 600,
-		"margin-left": 670,
-		"spacing": 2,
-		"font": "fonts\\Proxima Nova Alt Thin.otf",
-		"align": "left",
-		"line-height": 30,
-		"width": 20
-	},
-	"text3": {
-		"content": "brand",
-		"font-size": 30,
-		"margin-top": 800,
-		"margin-left": 670,
-		"spacing": 2,
-		"font": "fonts\\Proxima Nova Alt Thin.otf",
-		"align": "left",
-		"line-height": 30,
-		"width": 20
-	},
-	"image0": {
-		"margin-top": 810,
-		"margin-left": 890,
-		"width": 120,
-		"content": "demo.png"
+	"attachments": {
+		"image": {
+			"margin-top": 240,
+			"margin-left": 218,
+			"width": 398,
+			"content": "feed"
+		},
+		"text1": {
+			"content": "title",
+			"font-size": 30,
+			"margin-top": 200,
+			"margin-left": 670,
+			"font": "fonts\\Proxima Nova Alt Thin.otf",
+			"align": "left",
+			"line-height": 38,
+			"width": 20
+		},
+		"text2": {
+			"content": "price",
+			"font-size": 30,
+			"margin-top": 600,
+			"margin-left": 670,
+			"font": "fonts\\Proxima Nova Alt Thin.otf",
+			"align": "left",
+			"line-height": 30,
+			"width": 20
+		},
+		"text3": {
+			"content": "brand",
+			"font-size": 30,
+			"margin-top": 800,
+			"margin-left": 670,
+			"font": "fonts\\Proxima Nova Alt Thin.otf",
+			"align": "left",
+			"line-height": 30,
+			"width": 20
+		},
+		"image0": {
+			"margin-top": 850,
+			"margin-left": 228,
+			"width": 675,
+			"content": "st_logo.png"
+		}
 	}
 }
